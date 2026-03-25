@@ -1,0 +1,157 @@
+Football
+Basketball
+Tennis
+Cricket
+Baseball
+Rugby
+Volleyball
+Hockey
+Golf
+Swimming
+Athletics
+Cycling
+Boxing
+Wrestling
+Judo
+Karate
+Taekwondo
+Fencing
+Archery
+Shooting
+Rowing
+Sailing
+Canoeing
+Kayaking
+Surfing
+Skateboarding
+Snowboarding
+Skiing
+Ice Hockey
+Figure Skating
+Speed Skating
+Bobsled
+Luge
+Skeleton
+Biathlon
+Cross-Country Skiing
+Ski Jumping
+Curling
+Badminton
+Table Tennis
+Squash
+Racquetball
+Handball
+Water Polo
+Diving
+Synchronized Swimming
+Triathlon
+Pentathlon
+Decathlon
+Heptathlon
+Marathon
+Sprinting
+Long Jump
+High Jump
+Triple Jump
+Pole Vault
+Shot Put
+Discus
+Hammer Throw
+Javelin
+Equestrian
+Polo
+Lacrosse
+Field Hockey
+Softball
+Netball
+Futsal
+Beach Volleyball
+Beach Soccer
+Sepak Takraw
+Kabaddi
+Sumo
+Kickboxing
+Muay Thai
+Mixed Martial Arts
+Brazilian Jiu-Jitsu
+Sambo
+Weightlifting
+Powerlifting
+Bodybuilding
+Gymnastics
+Artistic Gymnastics
+Rhythmic Gymnastics
+Trampoline
+Parkour
+Rock Climbing
+Sport Climbing
+Bouldering
+Mountain Biking
+BMX
+Motocross
+Formula One
+Rally Racing
+NASCAR
+Drag Racing
+Karting
+Speedway
+Horse Racing
+Greyhound Racing
+Bobsleigh
+Netball
+Hurling
+Gaelic Football
+Australian Rules Football
+American Football
+Canadian Football
+Floorball
+Korfball
+Tchoukball
+Ultimate Frisbee
+Disc Golf
+Pickleball
+Padel
+Pelota
+Jai Alai
+Bocce
+Bowls
+Croquet
+Polo
+Snooker
+Billiards
+Pool
+Darts
+Esports
+Chess Boxing
+Drone Racing
+Obstacle Racing
+Mud Run
+CrossFit
+Arm Wrestling
+Tug of War
+Tae Bo
+Capoeira
+Wushu
+Kung Fu
+Aikido
+Kendo
+Naginata
+Synchronized Diving
+Open Water Swimming
+Triathlon
+Duathlon
+Aquathlon
+Skyrunning
+Trail Running
+Ultra Marathon
+Orienteering
+Nordic Combined
+Freestyle Skiing
+Moguls
+Aerials
+Halfpipe
+Slopestyle
+Ice Climbing
+Paragliding
+Skydiving
+Wingsuit Flying
